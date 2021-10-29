@@ -4,7 +4,8 @@
     "password": null,
     "database": "database_development",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "url": "postgres://civfbbuk:re88qxyMpyIwwwnxJ2Uzurr0jEasOYLh@hattie.db.elephantsql.com/civfbbuk"
   },
   "test": {
     "username": "root",
